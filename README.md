@@ -2,13 +2,13 @@
 
 Full Stack Developer
 <img align="right" width="370" height="290" src="(https://tenor.com/en-GB/view/coding-girl-gif-2332171326726785246)">
-- 🔭 Here's my [portfolio]([)](https://protfoliosindhu.netlify.app)                                                 
+- 🔭 Here's my [portfolio]()(https://protfoliosindhu.netlify.app)                                                 
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on Web Development Prpjects 
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about HTML,CSS,Javascript,React,Node js
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />]([)](https://x.com/VvmSindhuma) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([)](https://www.linkedin.com/in/sindhuma-vvm-1a5425295/)
+<br /> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />(https://x.com/VvmSindhuma) <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sindhuma-vvm-1a5425295/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I believe problem-solving or programming is really easy compared to communicating with fellow people.
 
