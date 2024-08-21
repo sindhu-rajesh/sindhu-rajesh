@@ -1,11 +1,11 @@
 Hi there, I'm Sindhu Rajesh👋
-<br>
+<hr>
 About Me 👨‍💻
-<br>
+<hr>
 I’m a passionate MERN stack developer with hands-on experience in building dynamic and responsive web applications. I specialize in creating full-stack solutions using MongoDB, Express.js, React.js, and Node.js. My journey as a developer has equipped me with the skills to handle both frontend and backend development, enabling me to create cohesive and functional applications.
 
 Skills & Technologies 💻
-<br>
+<hr>
 Frontend Development: React.js, HTML5, CSS3, JavaScript, Redux, RESTful APIs, Responsive Design
 Backend Development: Node.js, Express.js, RESTful APIs, Authentication, Middleware
 Database: MongoDB, Mongoose
