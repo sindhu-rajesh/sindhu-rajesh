@@ -1,14 +1,19 @@
-## Hi there 👋 It's me Sindhu
+Hi there, I'm Sindhu Rajesh👋
+<br>
+About Me 👨‍💻
+<br>
+I’m a passionate MERN stack developer with hands-on experience in building dynamic and responsive web applications. I specialize in creating full-stack solutions using MongoDB, Express.js, React.js, and Node.js. My journey as a developer has equipped me with the skills to handle both frontend and backend development, enabling me to create cohesive and functional applications.
 
-Full Stack Developer
+Skills & Technologies 💻
+<br>
+Frontend Development: React.js, HTML5, CSS3, JavaScript, Redux, RESTful APIs, Responsive Design
+Backend Development: Node.js, Express.js, RESTful APIs, Authentication, Middleware
+Database: MongoDB, Mongoose
+Tools & Platforms: Git, GitHub, Postman
+Version Control: Git, GitHub
+
 <img align="right" width="370" height="290" src="(https://tenor.com/en-GB/view/coding-girl-gif-2332171326726785246)">
 - 🔭 Here's my [portfolio]()(https://protfoliosindhu.netlify.app)                                                 
-- 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking to collaborate on Web Development Projects 
-- 🤔 I’m looking for help with Placements in FAANG
-- 💬 Ask me about HTML,CSS,Javascript,React,Node js
-- 📫 How to reach me :
-<br /> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />(https://x.com/VvmSindhuma) <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sindhuma-vvm-1a5425295/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I believe problem-solving or programming is really easy compared to communicating with fellow people.
 
